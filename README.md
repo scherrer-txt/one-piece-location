@@ -19,10 +19,18 @@
 
 ```
 
-# One Piece IRL Location
-# Gathered Info
-Source: ["ONE PIECE" Worldwide Sales Exceed 600 Million Copies - "What is ONE PIECE?"](https://www.youtube.com/watch?v=O9M1UMj-vwE) (orig.:『ONE PIECE』全世界累計発行部数6億部突破記念企画「ONE PIECEとは？」)
+# One Piece Location
+## Status
+### To-do
+- [ ] Cross-reference clouds with satellite images of [Sagami](#sagami) and [Suruga](#suruga) to get the exact date → confirm with weather report
+- [ ] Finish Sagami and Suruga bay sections
 
+### Done
+- [x] Publish second iteration of my findings about [Toyama](#toyama) (2026-03-06 13:42 CET, [source](https://github.com/scherrer-txt/one-piece-location/commit/c3d60c6e49b8c41c2e0e12354b4d5619415f838b))
+- [x] Publish first iteration of my findings about [Toyama](#toyama) (2026-03-04 05:55 CET, [source](https://github.com/scherrer-txt/one-piece-location/commit/588583ff3b75ac852f4afef8fa338f3647ba80ae))
+
+
+# Gathered Info
 ## Timestamps
 - [0:09](https://youtu.be/O9M1UMj-vwE?t=9) - Feb. 8, 2026 - 1:25 PM At Eiichiro Oda's studio
 - [0:54](https://youtu.be/O9M1UMj-vwE?t=54) - Photo frame: 2602-C0233A
@@ -215,7 +223,7 @@ tl;dr: Most probable are bays Toyama, then Sagami.
 
 ![](map-1.png)
 
-### 1. Redraw in vector to capture details:
+### 1. Redraw in vector (for better scaling)
 
 ![](map-2.png)
 
@@ -324,8 +332,6 @@ Most probably either *Pandalus hypsinotus* (known also as **Toyama** shrimp) or 
 ### Notes
 - I cannot stress enough that when overlaid with map sketch shows nothing fits, not even as a rough idea -- when aligning the port, shore and depth marks are off; when aligning the big peninsula, the smaller one floats in the sea; depth marks cannot be aligned at all.
 
----
-
 # Team
 - scherrer-txt
 - [Lea_be_snappy](https://www.instagram.com/lea_be_snappy/)
@@ -341,6 +347,7 @@ Most probably either *Pandalus hypsinotus* (known also as **Toyama** shrimp) or 
 - Google Earth
 
 # Sources
+- ["ONE PIECE" Worldwide Sales Exceed 600 Million Copies - "What is ONE PIECE?"](https://www.youtube.com/watch?v=O9M1UMj-vwE)
 - [Online Anthropometry: Chapter 2 - Definition and applicability of the Anthropometric data - 18. Shoulder breadth (biacromial)](https://personal.cityu.edu.hk/meachan/online%20anthropometry/chapter2/Ch2-18.htm)
 - [USA National Weather Service - Beaufort Scale](https://www.weather.gov/pqr/beaufort) and [USA National Weather Service - Guide to: Sea State, Wind, and Clouds](https://www.weather.gov/media/marine/SeaState.pdf)
 - [NZ Metservice - Sea State and Swell](https://blog.metservice.com/Sea_State_and_Swell)
