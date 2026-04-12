@@ -477,7 +477,7 @@ Most probably either *Pandalus hypsinotus* (known also as **Toyama** shrimp) or 
 - scherrer-txt (head of research)
 - [Lea_be_snappy](https://www.instagram.com/lea_be_snappy/) (research associate)
 - [maro95amv](https://www.reddit.com/user/maro95amv/) (research associate)
-- [LUKEPPP89](https://github.com/LUKEPPP89) (research associate)
+- [AnorakUnbound](https://github.com/AnorakUnbound) (research associate)
 
 # Tools
 - No AI/LLM model was used to create any part of our findings (images nor text)
